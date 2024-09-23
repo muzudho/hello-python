@@ -1,7 +1,7 @@
 #
 # python what_is_range.py
 #
-# range(1, 10) って何だろう？
+# range(1, 11) って何だろう？
 #
 import traceback
 
