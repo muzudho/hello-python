@@ -35,6 +35,7 @@ if __name__ == '__main__':
 
                 # データ・ファイルを１行ずつに分解したリストにして読込
                 with open(DATA_TXT_FILE_PATH, 'r', encoding='utf8') as f:
+                        # 📖 [python でファイルを read してリストにする時に、改行コードを入れない](https://qiita.com/suzuki-hoge/items/8eac60f7b68044eea6c1)
                         line_list = f.read().splitlines()
 
                 # データを１行ずつ見ていく

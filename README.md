@@ -1,6 +1,15 @@
 # hello-python
 
-初級者用パイソン。 （指導者向け説明：パッケージのインストールが要らないものあたりを中心）  
+初級者用パイソン  
+
+
+# 指導者向け説明
+
+パッケージのインストールが要らないものあたりを中心。  
+さらに１ランク難しいものは 📖 [ハウディ パイソン](https://github.com/muzudho/howdy_python) を参照。  
+
+
+# 目次
 
 * 📄 [range(1, 11) って何だろう？](what_is_range.py) `python what_is_range.py`
 * 📄 [len(x) って何だろう？](what_is_len.py) `python what_is_len.py`
