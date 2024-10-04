@@ -1,12 +1,17 @@
 # hello-python
 
-初級者用パイソン  
+Python 初級者用レッスンのレベル３
+
+他のレベルは以下にあります
+
+* 📖 `Lv.1 こんにちわ！パイソン` - ここ
+* 📖 [Lv.2 どうだい？パイソン](https://github.com/muzudho/howdy_python)
+* 📖 [Lv.3 どうした？パイソン](https://github.com/muzudho/whatsup_python)
 
 
 # 指導者向け説明
 
 パッケージのインストールが要らないものあたりを中心。  
-さらに１ランク難しいものは 📖 [ハウディ パイソン](https://github.com/muzudho/howdy_python) を参照。  
 
 
 # 目次
